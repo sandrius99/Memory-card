@@ -1,11 +1,13 @@
 import React from 'react';
+import '../styles/Card.css'
 
-const Card = (images, name) => {
+const Card = ({image, name, handleCardClick}) => {
     return (
-        <div>
-            <img src={images}></img>
-            <span>{name}</span>
+        <div className='card' onClick={ handleCardClick} key={name}> 
+        <img src={image}></img>
+        <span className='cardText'>{name}</span>
         </div>
+
     )
 }
 
