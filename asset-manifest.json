@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Memory-card/static/css/main.e71bf2dd.css",
+    "main.js": "/Memory-card/static/js/main.d992d0db.js",
+    "static/media/paldenlhamo.webp": "/Memory-card/static/media/paldenlhamo.3f5a308200a1fc9eaf27.webp",
+    "static/media/avalokiteshvara.webp": "/Memory-card/static/media/avalokiteshvara.06bfd510f8c048a7827f.webp",
+    "static/media/mahakala.webp": "/Memory-card/static/media/mahakala.ef888ddc339918a2f172.webp",
+    "static/media/tsongkhapa.webp": "/Memory-card/static/media/tsongkhapa.f628138f36d8b7e2a266.webp",
+    "static/media/manjushri.webp": "/Memory-card/static/media/manjushri.3c8a4c63e897de88def1.webp",
+    "static/media/buddha.webp": "/Memory-card/static/media/buddha.3149d5cfb01078969e43.webp",
+    "static/media/vajrapan.webp": "/Memory-card/static/media/vajrapan.fe9a164124bbe51b3930.webp",
+    "static/media/vajrayogini.jpg": "/Memory-card/static/media/vajrayogini.4d2657d643ee83afa8be.jpg",
+    "static/media/white-tara.webp": "/Memory-card/static/media/white-tara.bb2e61e1252e1a0dea1d.webp",
+    "static/media/green_Tara.webp": "/Memory-card/static/media/green_Tara.ecff02b3ddc106ccb14c.webp",
+    "static/media/maitreya.webp": "/Memory-card/static/media/maitreya.3e544de73a5e8918e739.webp",
+    "static/media/gururinpoche.webp": "/Memory-card/static/media/gururinpoche.36752acee9c083284efc.webp",
+    "index.html": "/Memory-card/index.html",
+    "main.e71bf2dd.css.map": "/Memory-card/static/css/main.e71bf2dd.css.map",
+    "main.d992d0db.js.map": "/Memory-card/static/js/main.d992d0db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e71bf2dd.css",
+    "static/js/main.d992d0db.js"
+  ]
+}
